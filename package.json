@@ -1,0 +1,24 @@
+{
+  "name": "custom_mail_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuj-rishu/CUSTOM_MAIL_SERVER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuj-rishu/CUSTOM_MAIL_SERVER/issues"
+  },
+  "homepage": "https://github.com/anuj-rishu/CUSTOM_MAIL_SERVER#readme",
+  "description": "",
+  "dependencies": {
+    "@types/smtp-server": "^3.5.10",
+    "smtp-server": "^3.13.6"
+  }
+}
